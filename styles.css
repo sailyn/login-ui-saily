@@ -150,12 +150,17 @@ body, html {
     object-fit: contain;
   }
 
-  .signup-link {
+  .signup-link  {
     font-size: 12px;
     color: #8d8888; 
     text-decoration: none;
   }
-  
-  .signup-link:hover {
+
+  .signup-text {
+    color: #88898d; 
     text-decoration: underline;
+  }
+
+  .signup-text:hover {
+    text-decoration: none; 
   }
